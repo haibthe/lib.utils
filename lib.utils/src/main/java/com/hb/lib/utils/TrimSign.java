@@ -1,6 +1,6 @@
 package com.hb.lib.utils;
 
-import android.support.v4.util.SparseArrayCompat;
+import androidx.collection.SparseArrayCompat;
 
 import java.io.BufferedReader;
 import java.io.IOException;
